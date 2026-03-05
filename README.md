@@ -1,4 +1,4 @@
-💫 Hi 👋, I'm Anuj Maurya
+# 💫 Hi 👋, I'm Anuj Maurya
 
 A passionate Software Engineer || Full Stack Developer
 
@@ -9,8 +9,6 @@ Email Me 👉 ✉️ mauryanuj65@gmail.com For any query. 😊😊
 👯 I’m looking to collaborate on: Website Developer
 💬 Ask me about: Collaboration, Tech Support
 📫 How to reach me: mauryanuj@gmail.com
-😄 Pronouns: Anuj
-⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anujmaurya--cse27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauryanuj65@gmail.com) 
