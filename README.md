@@ -8,7 +8,7 @@ Email Me 👉 ✉️ mauryanuj65@gmail.com For any query. 😊😊
 🌱 I’m currently learning: DSA in JAVA
 👯 I’m looking to collaborate on: Website Developer
 💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: mauryanuj@gmail.com
+📫 How to reach me: mauryanuj65@gmail.com
 
 
 ## 🌐 Socials:
