@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Anuj Maurya
 
-A passionate Software Engineer || Full Stack Developer
+A passionate Software Engineer || FrontEnd Developer
 
 Email Me 👉 ✉️ mauryanuj65@gmail.com For any query. 😊😊
 
